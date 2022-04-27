@@ -1,0 +1,12 @@
+aiohttp==3.7.4.post0
+blessed==1.19.1
+zwoasi==0.1.0.1
+pyserial==3.5
+python-socketio==5.5.1
+numpy==1.19.5
+opencv-contrib-python==4.5.5.62
+pygit2==1.9.1
+Pillow==8.0.1
+pylint==2.13.5
+python-dotenv==0.20.0
+attrs==21.2.0
